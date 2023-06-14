@@ -27,7 +27,5 @@
   <br />
 </p>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorcas126&show_icons=true&theme=radical) | <a href="https://github.com/Dorcas126/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorcas126&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 
